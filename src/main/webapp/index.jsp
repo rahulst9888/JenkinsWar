@@ -140,7 +140,7 @@ style="width:auto;">Login</button>
       <span onclick="document.getElementById('id01').style.display='none'" class="close" 
 
 title="Close Modal">&times;</span>
-      <img src="D:\Champ\IMG_9747.jpg" alt="Avatar" class="avatar">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbzxr-38h8IC7_2YhuBeE7encJaLlbsc0hI0DzsOi7iPHi1H3" alt="Avatar" class="avatar">
     </div>
 
     <div class="container">
